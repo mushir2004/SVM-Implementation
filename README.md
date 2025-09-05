@@ -30,5 +30,6 @@ This notebook demonstrates how to generate synthetic data, train a classifier, a
 
 Test on real-world datasets.
 
-📜 License
+📜 License:
+
 This project is licensed under the MIT License - feel free to use and modify.
