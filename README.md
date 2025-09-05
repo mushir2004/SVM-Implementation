@@ -28,14 +28,6 @@ This notebook demonstrates how to generate synthetic data, train a classifier, a
 
 6. seaborn
 
-🚀 Getting Started
-1. Clone the repo
-git clone https://github.com/mushir2004/SVM-Implementation.git
-cd your-repo-name
-
-2. Install dependencies
-pip install -r requirements.txt
-
 Test on real-world datasets.
 
 📜 License
