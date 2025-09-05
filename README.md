@@ -27,9 +27,3 @@ This notebook demonstrates how to generate synthetic data, train a classifier, a
 5. matplotlib
 
 6. seaborn
-
-Test on real-world datasets.
-
-📜 License:
-
-This project is licensed under the MIT License - feel free to use and modify.
