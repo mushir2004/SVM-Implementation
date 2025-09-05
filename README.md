@@ -5,10 +5,15 @@ This notebook demonstrates how to generate synthetic data, train a classifier, a
 📌 Features
 
 Generate synthetic binary classification dataset (make_classification)
+
 Visualize dataset distribution with Seaborn
+
 Split data into training & testing sets
+
 Train Support Vector Classifier (SVC) from sklearn.svm
+
 Evaluate model performance
+
 Visualize decision boundaries
 
 🛠️ Tech Stack
